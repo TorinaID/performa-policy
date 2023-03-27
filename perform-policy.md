@@ -1,56 +1,62 @@
-Kebijakan Privasi
-MOHON ANDA MEMBACA KEBIJAKAN PRIVASI INI DENGAN SEKSAMA UNTUK MEMASTIKAN BAHWA ANDA MEMAHAMI BAGAIMANA PERFORMA APP MENGUMPULKAN, MENYIMPAN, MENGGUNAKAN, MEMINDAHKAN, MENGUNGKAPKAN DAN MELINDUNGI INFORMASI PRIBADI YANG DIPEROLEH MELALUI APLIKASI KAMI.
+# **Kebijakan Privasi**
 
-Penggunaan Anda atas Aplikasi dan Layanan kami tunduk pada Ketentuan Penggunaan dan Kebijakan Privasi ini dan mengindikasikan persetujuan Anda terhadap Ketentuan Penggunaan dan Kebijakan Privasi tersebut.
+Kebijakan Privasi ini menjelaskan siapa kami, bagaimana kami mengumpulkan, berbagi, dan menggunakan data pribadi tentang Anda, dan bagaimana Anda dapat menggunakan hak privasi Anda. Kebijakan Privasi ini berlaku untuk aplikasi, situs web dan layanan terkait “Performa App”. Kami dapat memperbarui Kebijakan Privasi ini secara berkala dengan memposting versi baru di performa.bnnri.id. Jika kami melakukan perubahan materi, kami akan memberi tahu Anda dengan memposting pemberitahuan di Layanan sebelum perubahan tersebut berlaku. Terus menggunakan Layanan Anda setelah tanggal efektif akan tunduk pada Kebijakan Privasi baru.
 
-Definisi
-"Aplikasi" berarti aplikasi PERFORMA APP yang tersedia di google play store, app store maupun store yang tersedia dalam sistem perangkat Anda.
+---
 
-"Informasi Pribadi" berarti data perseorangan/perusahaan tertentu yang melekat dan dapat diidentifikasi pada suatu individu/perusahaan dan yang dikumpulkan melalui Aplikasi, seperti nama, alamat, nomor identitas (apabila Anda adalah seorang individu), data dan dokumen identitas perusahaan (apabila Anda bukan seorang individu), nomor telepon, alamat surat elektronik (e-mail), nomor rekening bank, perizinan dan/atau sejenisnya, dan informasi lain yang mungkin dapat mengidentifikasi Anda sebagai pengguna Aplikasi.
+# **Kontak**
 
-"PERFORMA APP" berarti PT Jagatnata Innovation Technology, suatu perusahaan yang didirikan berdasarkan hukum Negara Republik Indonesia.
+Jika Anda memiliki pertanyaan terkait penggunaan data Anda di aplikasi ini, silahkan menghubungi:
 
-"Ketentuan Penggunaan" berarti syarat dan ketentuan atau prosedur standar operasi atau ketentuan lainnya sehubungan dengan masing-masing Aplikasi yang dikembangkan oleh PERFORMA APP, sebagaimana dapat diubah atau ditambah dari waktu ke waktu;
+- Inspektorat Utama BNN, selaku pemilik aplikasi.
+- PT. Jagatnata Innovation Technology, selaku pengembang aplikasi.
 
-"Layanan" berarti hal-hal yang ditawarkan oleh PERFORMA APP melalui Aplikasi kepada Anda, termasuk namun tidak terbatas pada pemrosesan dan pengantaran untuk produk yang disediakan dari waktu ke waktu melalui Aplikasi.
+---
 
-Tujuan Informasi Pribadi yang PERFORMA APP Kumpulkan
-PERFORMA APP mengumpulkan Informasi Pribadi tertentu dari Anda agar Aplikasi dapat menjalankan fungsinya termasuk namun tidak terbatas dengan tujuan untuk menghubungi Anda tentang akun Anda dalam Aplikasi dan Layanan PERFORMA APP, memberikan Layanan kepada Anda, memberi Anda iklan dan pemasaran terkait Layanan PERFORMA APP, menjawab pertanyaan-pertanyaan dan/atau permintaan-permintaan yang Anda ajukan kepada PERFORMA APP, dan untuk mendeteksi, mencegah, mengurangi dan menyelidiki aktivitas curang atau ilegal.
+# **Data yang kami kumpulkan**
 
-Pemberian Informasi Pribadi oleh Anda
-Informasi Pribadi dapat Anda berikan secara langsung (sebagai contoh, saat Anda mendaftar sebagai pengguna Aplikasi) maupun terkumpul ketika Anda menggunakan Aplikasi.
+### **Data Penunjang (Umum)**
 
-Penggunaan Cookie
+Sebagian besar data yang kami kumpulkan berasal dari aplikasi Admin Performa (Web-based App) milik Inspektorat Utama BNN, data-data tersebut berupa nama, nik, nrp, nip, informasi jabatan dan satuan kerja.
 
-Cookie adalah berkas data kecil yang ditempatkan browser Anda pada perangkat Anda. Dengan cookie, PERFORMA APP lebih mengetahui pola penggunaan Anda dan mengingat informasi yang akan membuat penggunaan Anda atas Aplikasi menjadi lebih mudah dan nyaman (misalnya dengan mengingat pengaturan preferensi).
+Selain itu kami juga mengumpulkan beberapa informasi lain yang Anda berikan kepada kami melalui formulir berupa foto profil, email dan nomor handphone serta alamat.
 
-Penggunaan Informasi Pribadi Yang PERFORMA APP Kumpulkan
+---
 
-PERFORMA APP menggunakan Informasi Pribadi untuk tujuan verifikasi kepemilikan Anda atas suatu akun dalam Aplikasi kami, untuk berkomunikasi dengan Anda sehubungan dengan pemrosesan, penggunaan atau pengelolaan Layanan dan Aplikasi dan untuk memberikan Anda informasi mengenai Aplikasi dan Layanan. Kami juga dapat menggunakan Informasi Pribadi untuk mengirimkan pesan, pembaharuan yang bersifat umum atas Aplikasi dan Layanan, penawaran-penawaran khusus atau promosi-promosi.
+# **Data yang kami bagikan**
 
-PERFORMA APP menggunakan Informasi Pribadi secara keseluruhan untuk menganalisa pola penggunaan Anda atas Aplikasi. Anda dengan ini setuju bahwa Informasi Pribadi Anda akan digunakan oleh sistem pemrosesan data internal PERFORMA APP untuk memastikan diberikannya Layanan yang terbaik dalam Aplikasi untuk Anda.
+Tidak ada data mentah yang dibagikan oleh aplikasi ini. Hanya data yang telah diolah yang kemudian dibagian ke aplikasi lainnya. Data tersebut berupa informasi laporan kegiatan dan laporan perjalanan dinas yang berhubungan dengan kegiatan Anda setiap harinya, informasi ini dibagikan hanya ke sesama pengguna aplikasi dalam lingkungan Inspektorat Utama BNN.
 
-Pemberian Informasi yang PERFORMA APP Kumpulkan
+---
 
-Anda setuju bahwa PERFORMA APP dapat memberikan Informasi Pribadi Anda kepada pihak-pihak ketiga baik perusahaan maupun perorangan dimana PERFORMA APP bekerjasama untuk memfasilitasi atau memberikan bantuan operasional atau pengembangan Aplikasi dan layanan-layanan tertentu untuk dan/atau atas nama PERFORMA APP, untuk, di antaranya, (i) memberikan pelayanan konsumen; (ii) melaksanakan layanan-layanan terkait dengan Aplikasi (termasuk namun tidak terbatas pada layanan pemeliharaan, pengelolaan database, analisis penggunaan Aplikasi dan penyempurnaan fitur-fitur dalam Aplikasi); (iii) membantu Kami dalam menganalisa bagaimana Aplikasi dan Layanan digunakan serta bagaimana pengembangannya; atau (iv) untuk membantu penasihat profesional dan auditor eksternal Kami, termasuk penasihat hukum, penasihat keuangan, dan konsultan-konsultan terkait lainnya. Para pihak ketiga ini hanya memiliki akses atas Informasi Pribadi Anda untuk melakukan tugas-tugas tersebut untuk dan/atau atas nama Kami dan tidak mengungkapkan atau menggunakan Informasi Pribadi tersebut untuk tujuan lain apapun.
+# **Izin Akses di Aplikasi (Android/IOS)**
 
-PERFORMA APP tidak membagikan Informasi Pribadi Anda kepada pihak manapun yang berkepentingan selain serta pihak ketiga dengan tujuan penggunaan yang spesifik yang disebutkan di paragraf pertama bagian ini, tanpa persetujuan dari Anda. Namun demikian, Kami akan mengungkapkan Informasi Pribadi Anda sepanjang diwajibkan secara hukum, atau diperlukan untuk tunduk pada ketentuan peraturan perundang-undangan, institusi pemerintah, atau dalam hal terjadi sengketa, atau segala bentuk proses hukum antara Anda dan PERFORMA APP, atau antara Anda dan pihak lain sehubungan dengan, atau terkait dengan Aplikasi dan Layanan, atau dalam keadaan darurat yang berkaitan dengan keamanan Anda.
+- Penyimpanan Foto/Media/File
 
-Perlindungan Data dan Informasi Pribadi
-Perlindungan data dan Informasi Pribadi Anda adalah suatu kewajiban bagi PERFORMA APP. PERFORMA APP akan memberlakukan langkah-langkah untuk melindungi dan mengamankan data dan Informasi Pribadi Anda. Namun demikian, PERFORMA APP tidak dapat sepenuhnya menjamin bahwa sistem PERFORMA APP tidak akan diakses soleh virus, malware, gangguan atau kejadian luar biasa termasuk akses oleh pihak ketiga yang tidak berwenang. Anda harus menjaga keamanan dan kerahasiaan data yang berkaitan dengan akun Anda pada Aplikasi termasuk kata sandi dan data-data lainnya yang Anda berikan di dalam Aplikasi ini.
+Akses ke media penyimpanan galeri foto akan dilakukan hanya saat Anda memilih foto saat mengubah profil, tidak ada proses ubah atau hapus, hanya membaca foto yang Anda pilih.
 
-Perubahan atas Kebijakan Privasi ini
-PERFORMA APP dapat mengubah Kebijakan Privasi ini untuk sejalan dengan perkembangan kegiatan bisnis PERFORMA APP atau dipersyaratkan oleh peraturan perundang-undangan dan instusi pemerintah terkait. Jika PERFORMA APP mengubah Kebijakan Privasi ini, PERFORMA APP akan memberitahu Anda melalui surat elektronik (e-mail) atau memberikan notifikasi pada Aplikasi 1 (satu) hari sebelum perubahan berlaku. PERFORMA APP meminta Anda untuk meninjau Aplikasi secara reguler dan terus-menerus selama Anda menggunakan Aplikasi untuk mengetahui informasi terbaru tentang bagaimana ketentuan Kebijakan Privasi ini PERFORMA APP diberlakukan.
+- Akses Kamera
 
-Lain-lain
-Hukum yang Mengatur dan Yurisdiksi
+Kamera hanya akan diaktifkan saat melakukan pengambilan gambar dokumen perjalanan.
 
-Kebijakan Privasi ini diatur oleh dan ditafsirkan menurut hukum Negara Republik Indonesia. Setiap dan seluruh sengketa yang timbul dari Kebijakan Privasi ini akan diatur oleh yurisdiksi eksklusif dari Pengadilan Negeri Jakarta Selatan.
+- Notifikasi
 
-Pengakuan dan Persetujuan
-Dengan menggunakan Aplikasi, Anda mengakui bahwa Anda telah membaca dan memahami Kebijakan Privasi ini dan Ketentuan Penggunaan dan setuju dan sepakat terhadap penyimpanan, penggunaan, pemrosesan, pemberian dan pengalihan Informasi Pribadi Anda oleh PERFORMA APP sebagaimana dinyatakan di dalam Kebijakan Privasi ini.
+Notifikasi hanya diterima dari admin sebagai pemberitahuan bahwa suatu kegiatan telah dijalankan. 
 
-PERFORMA APP juga menyatakan bahwa Anda memiliki hak untuk memberikan seluruh informasi yang telah Anda berikan kepada PERFORMA APP dan untuk memberikan hak kepada PERFORMA APP untuk memproses dan menggunakan serta memberikan informasi guna mendukung dan melaksanakan fungsi Aplikasi dan membebaskan PERFORMA APP dari segala tuntutan apabila di kemudian hari terdapat tuntutan ketidakabsahan hak Anda dalam memberikan informasi.
+- Internet
 
-Cara untuk Menghubungi PERFORMA APP
-Jika Anda memiliki pertanyaan lebih lanjut tentang privasi dan keamanan informasi Anda atau ingin memperbarui atau menghapus data Anda maka silakan hubungi kami di: help@jagatnata.co.id
+Untuk mengirimkan data ke server dan menerima data dari server, dibutuhkan akses ke internet, baik menggunakan WiFI atau Data Seluler. Tidak ada aktifitas di background yang dilakukan secara rahasia, sehingga privasi Anda tetap terjaga.
+
+---
+
+# **Keamanan Data**
+
+Kami menggunakan langkah-langkah organisasional, teknis dan administratif yang layak untuk melindungi Informasi Pribadi di bawah kendali kami. Sayangnya, tidak ada transmisi data melalui internet atau sistem penyimpanan data yang keamanannya terjamin 100%.
+
+Jika Anda memiliki alasan untuk percaya bahwa interaksi Anda dengan kami tidak lagi aman (sebagai contoh, jika Anda merasa bahwa keamanan akun yang Anda miliki terganggu), mohon agar segara memberitahukan masalah tersebut kepada kami.
+
+---
+
+# **Batasan Usia**
+
+Aplikasi ini diperuntukkan bagi ASN di lingkungan Inspektorat Utama BNN yang tentunya sudah berusia di atas 7 tahun. Jika Anda belum berusia 7 tahun dan secara tidak sengaja mengakses aplikasi ini, mohon untuk menghapus kembali aplikasi ini.
